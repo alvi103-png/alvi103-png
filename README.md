@@ -1,12 +1,10 @@
-## Hey there 😎
+## Hello 💜
 
 ## About me
 
 I am Viviana, curious and solution-oriented engineer transitioning into tech. I enjoy figuring out how things work and thinking of ways to make them better. Coming from an engineering background, I’ve developed a structured mindset, good organization, and a hands-on approach to solving problems.
 
 I’m a motivated and dedicated person who works well in teams and values collaboration. I like taking ownership of my work and I’m always looking to keep learning and improving.
-
-Keep curious! 🤓
 
 ## :hammer_and_wrench: Languages and Tools :
 
