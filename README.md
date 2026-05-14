@@ -2,9 +2,11 @@
 
 ## About me
 
-I am Viviana, curious and solution-oriented engineer transitioning into tech. I enjoy figuring out how things work and thinking of ways to make them better. Coming from an engineering background, I’ve developed a structured mindset, good organization, and a hands-on approach to solving problems.
+I’m an engineer with over 14 years of experience in the energy sector, currently transitioning into tech and training in Full-Stack web development. Throughout my career in hydrocarbons and renewable energy, I’ve worked in demanding technical and commercial environments where I developed strong problem-solving skills, organization, adaptability, and a collaborative mindset.
 
-I’m a motivated and dedicated person who works well in teams and values collaboration. I like taking ownership of my work and I’m always looking to keep learning and improving.
+I’m naturally curious and enjoy understanding how things work and finding ways to improve them. Coming from an engineering background, I bring a structured and hands-on approach to challenges, while also valuing creativity, teamwork, and continuous learning.
+
+I’m currently building skills in HTML5, CSS3, JavaScript, React.js, UX/UI, and agile methodologies such as Scrum and Kanban, with the goal of creating useful, efficient, and user-focused digital solutions.
 
 ## :hammer_and_wrench: Languages and Tools :
 
