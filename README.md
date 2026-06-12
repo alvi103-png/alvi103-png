@@ -1,12 +1,12 @@
-## Hello 💜
+## <h1 align="center"> Hello I am Viviana, a next-to-be Full Stack Developer💜 </h1>
 
 ## About me
 
-I’m an engineer with over 14 years of experience in the energy sector, currently transitioning into tech and training in Full-Stack web development. Throughout my career in hydrocarbons and renewable energy, I’ve worked in demanding technical and commercial environments where I developed strong problem-solving skills, organization, adaptability, and a collaborative mindset.
+I’m an engineer with over 14 years of experience in the energy sector, currently transitioning into tech and training in Full-Stack web development. Throughout my career in hydrocarbons (yes, the dark side) and renewable energy, I’ve worked in demanding technical and commercial environments where I developed strong problem-solving skills, organization, adaptability, and a collaborative mindset.
 
 I’m naturally curious and enjoy understanding how things work and finding ways to improve them. Coming from an engineering background, I bring a structured and hands-on approach to challenges, while also valuing creativity, teamwork, and continuous learning.
 
-I’m currently building skills in HTML5, CSS3, JavaScript, React.js, UX/UI, and agile methodologies such as Scrum and Kanban, with the goal of creating useful, efficient, and user-focused digital solutions.
+I’m currently building skills in HTML5, CSS3, JavaScript, React.js, UX/UI, Java, API REST and agile methodologies such as Scrum and Kanban, with the goal of creating useful, efficient, and user-focused digital solutions.
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -19,6 +19,7 @@ I’m currently building skills in HTML5, CSS3, JavaScript, React.js, UX/UI, and
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
 
 </div>
 
