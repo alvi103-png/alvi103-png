@@ -1,4 +1,4 @@
-## <h1 align="center"> Hello I am Viviana, a next-to-be Full Stack Developer💜 </h1>
+## <h1 align="center"> Hello I am Viviana, Full Stack Developer💜 </h1>
 
 ## About me
 
@@ -6,7 +6,7 @@ I’m an engineer with over 14 years of experience in the energy sector, current
 
 I’m naturally curious and enjoy understanding how things work and finding ways to improve them. Coming from an engineering background, I bring a structured and hands-on approach to challenges, while also valuing creativity, teamwork, and continuous learning.
 
-I’m currently building skills in HTML5, CSS3, JavaScript, React.js, UX/UI, Java, API REST and agile methodologies such as Scrum and Kanban, with the goal of creating useful, efficient, and user-focused digital solutions.
+My stack: HTML5, CSS3, Tailwind, SASS, JavaScript, React.js, UX/UI, Java, API REST, PostgreSQL, and agile methodologies such as Scrum and Kanban, with the goal of creating useful, efficient, and user-focused digital solutions.
 
 ## :hammer_and_wrench: Languages and Tools :
 
