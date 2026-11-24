@@ -1,4 +1,12 @@
-<!-- Header animado con degradado morado --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Hi,%20I'm%20Viviana%20💜&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Ex-Energy%20Engineer&descAlignY=60&descSize=18" width="100%"/> <!-- Texto que se escribe solo --> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=From+oil+wells+to+web+apps;Java+%2B+Spring+Boot+%2B+React;I+ship+apps+to+the+App+Store;Hackathon+winner;Currently+learning+Data+and+AI" alt="Typing SVG" /> </a> </p> <!-- Badges de contacto --> <p align="center"> <a href="https://linkedin.com/in/vivianaandrango"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:alvi103@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=180&section=header&text=Hi,%20I'm%20Viviana%20💜&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Ex-Energy%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=From+oil+wells+to+web+apps;Java+%2B+Spring+Boot+%2B+React;Engineer+brain,+developer+hands;Hackathon+winner;Currently+learning+Data+and+AI" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center"> <a href="https://linkedin.com/in/vivianaandrango"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:alvi103@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 ## About me
  
