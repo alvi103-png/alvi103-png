@@ -21,7 +21,7 @@ public class Viviana extends Engineer {
     String lookingFor   = "My first role as a developer 🚀";
  
     String superpower() {
-        // Años de troubleshooting en campo me enseñaron a no tenerle miedo a un bug
+        // Years of troubleshooting in the field taught me not to fear a bug
         return "Breaking big problems into small ones and fixing them";
     }
 }
